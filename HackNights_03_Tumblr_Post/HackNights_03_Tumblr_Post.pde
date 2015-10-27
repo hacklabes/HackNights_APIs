@@ -4,10 +4,10 @@ import processing.video.*;
 
 String BLOG_NAME = "hacknights.tumblr.com";
 
-String CONSUMER_KEY = "9teag9CWnFjG0BqcAE6m9emlMUpXWeR5shfClEfeLCRMtgOEie";
-String CONSUMER_SECRET = "78GcqfS77o4nZvbiFlR48AhtUIYsNZIM6RUWJHWFQFRSCp6hyq";
-String OAUTH_TOKEN = "N8JTTpDztIkD7hiOZKH5N4izoUVZVhfKokNaSiXHUedw9sA5QR";
-String OAUTH_TOKEN_SECRET = "4xdYmvYgSwqwRVL9z2XX1fageojhUeOGEAVJh68F1Xp0xv4bus";
+String CONSUMER_KEY = "HfOsHk4cVf4erHSRyP2OJvNJQkq9oqqOSVV4fCnXSYxsrupr81";
+String CONSUMER_SECRET = "TcRolbWNwklL8JLmP1xQcoDysU7wb6rUB2aaBn27LhNFG1EdP8";
+String OAUTH_TOKEN = "CtEmOvmQbcdm2TaLjXIdidWgKpAhQuFyMZv35RY7driQUv0bXM";
+String OAUTH_TOKEN_SECRET = "M6S1OoSRKeBQ5WeFH9ZlyRs6MDVVS90pbZmJXRdQdJBB1sUQIG";
 
 int PERIOD = 5000;
 
