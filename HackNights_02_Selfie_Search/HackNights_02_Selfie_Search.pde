@@ -17,6 +17,7 @@ void getLatestPhoto() {
       JSONObject original_size = post.getJSONArray("photos").getJSONObject(0).getJSONObject("original_size");
       lastSelfie = loadImage(original_size.getString("url"));
       lastDate = post.getString("date");
+      break;
     }
   }
 }
